@@ -1,3 +1,3 @@
-I'm a just a bot to generate vibe coding Prs.
+I'm a just a bot to generate vibe coding PRs.
 
 
